@@ -13,27 +13,27 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "bfa7fecb33443243ff8c8b0f27f9cd68"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "7868296"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "6028739166:AAEehWtqwwvqOhTSA4AZDAG4tnQFm7rW9EQ"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": ""
+            "value": "BABuCPpyXnIwYSWDIwMwUJBCQh9pN70m-gPlgkqq1AU7QjkFG3XGr5mXtAtk6LhaiSF1BKFwM_dG6Z2n_kcYd73Eo-cWYYvrveUzZn1lJDMpRh-4zWcxYYJH5u-1GKdA2C_MVAi1MOiEJV8Rs5bfqRGE0CTFGLc19bu8_DQYS_-r8dHg6t46jJkAKjXrlVW7k1VfsEuwOxpU5aW_Oe0KufyUVVbx2kwZXg525HWrfMY5VmEIg414m7kGHZ3va5GZEM0tJ3kqyuTnTjFHJgC7JoJc3Uqj9oBDgDj_2VeyNQSdx5QiOC7ZZHgmpGXN6EXStOqL48KUqdYcvbwDPxfNAJ6IAAAAASq_dygA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": ""
+            "value": "5012158248"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": ""
+            "value": "vfyugvuyvguyyjg"
         }
     },
     "buildpacks": [
